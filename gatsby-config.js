@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Juliette Pretot',
-    siteUrl: 'https://jul.sh',
+    title: 'Sahil Yadav',
+    siteUrl: 'https://sahilyadav.com',
   },
   plugins: [
     'gatsby-plugin-preact',
