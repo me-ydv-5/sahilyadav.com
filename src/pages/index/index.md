@@ -1,8 +1,8 @@
 ---
 templateKey: IndexPage
 title: hi!
-style: index
 featuredImage: ./me.jpg
+style: index
 ---
 
 You need to do something with a domain/website you pay for, correct?
