@@ -2,6 +2,7 @@
 templateKey: IndexPage
 title: hi!
 style: index
+featuredImage: ./me.jpg
 ---
 
 You need to do something with a domain/website you pay for, correct?
