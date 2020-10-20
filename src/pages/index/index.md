@@ -1,7 +1,7 @@
 ---
 templateKey: IndexPage
 title: hi!
-featuredImage: ./me.jpg
+featuredImage: ./me.jpeg
 style: index
 ---
 
