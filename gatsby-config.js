@@ -57,9 +57,6 @@ module.exports = {
     'gatsby-plugin-offline',
     'gatsby-plugin-styled-components',
     'gatsby-plugin-netlify', // place as last in the array. ref: https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-netlify#how-to-use
-  ],
-
-  plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
