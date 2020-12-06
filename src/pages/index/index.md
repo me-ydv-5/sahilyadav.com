@@ -9,16 +9,11 @@ You need to do something with a domain/website you pay for, correct?
 
 So here's my randomly updated list of bangers that I like:
 
-* **allOf(Karan Aujla)**
-* **allOf(Sidhu Moose Wala)**
-* **allOf(Eminem)**
-* **allOf(Barns Courtney)**
-* **allOf(Sherry Mann)**
-* **allOf(Linkin Park)**
-* **allOf(G-Eazy)**
-* **allOf(Sia)**
+* **Karan Aujla, Sidhu Moose Wala, Eminem, Barns Courtney, Linkin Park, G-Eazy, Sia**
 * **Table for one, seven sticks of dynamite - AWOLNATION.**
 
-I'm tired now, will update it later.
-
 I do a lot of reddit, youtube and (apparently) quality shitpost on my Whatsapp groups. I also like Scala (with cats) though.
+
+Btw, the pic on the left is from [Norefjell](https://www.norefjell.com/en), really beautiful place!
+
+There's also one [other website](https://me-ydv-5.github.io/) that I've stopped maintaining. You can find info about some projects that I did there.
