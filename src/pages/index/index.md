@@ -10,7 +10,7 @@ You need to do something with a domain/website you pay for, correct?
 So here's my randomly updated list of bangers that I like:
 
 * **Karan Aujla, Sidhu Moose Wala, Eminem, Barns Courtney, Linkin Park, G-Eazy, Sia**
-* **Table for one, seven sticks of dynamite - AWOLNATION.**
+* **Table for one, seven sticks of dynamite, carry on (The Score) - AWOLNATION.**
 
 I do a lot of reddit, youtube and (apparently) quality shitpost on my Whatsapp groups. I also like Scala (with cats) though.
 
